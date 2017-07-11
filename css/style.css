@@ -42,5 +42,10 @@ p{
 	word-wrap:break-word; /*word wrap breaks the word to the next line if its too long,
 							otherwise if we haven't used this property it continues to
 							print in the same line and goes off page */
+		
+	white-space:nowrap;/* nowrap continues to print the text in one line */
+	white-space:pre; /*preservs the spaces we give in our text */
+	
+	
  
 }
