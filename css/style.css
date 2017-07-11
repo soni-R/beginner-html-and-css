@@ -16,17 +16,18 @@ div{
 }	
 
 p{
+	padding:30px;
 	/* font:italic bold 20px georgia, serif; */
 	
 	font:20px georgia, serif;
 	border-style:double;  /*someother values groove, inset, outset   */
-	border-width:10px;
-	
-	/*border-right-style:solid;
-	border-left-style:solid;*/
-	
-	
+	border-width:10px 15px 10px 15px;
 	border-color:rgb(160,180,180) rgb(200,220,220);
+	
+	/*border-top-left-radius:20px;*/
+	border-top-right-radius:120px;
+	border-bottom-left-radius:120px;
+	/*border-bottom-right-radius:20px;*/
 
 	
 	
