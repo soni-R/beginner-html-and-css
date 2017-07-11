@@ -30,8 +30,11 @@ p{
 	border-bottom-right-radius:20px;
 
 	border-radius:10px;
-	box-shadow: 5px 5px 7px 2px #878787 inset; /*inset shows the shadow inside the box*/
+	box-shadow: 5px 5px 7px 2px #878787 inset; /*inset shows shadow inside the box*/
 	border:0;
 	
+	/*letter spacing and line height */
+	letter-spacing:1px;
+	line-height:50px;
  
 }
