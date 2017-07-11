@@ -37,4 +37,10 @@ p{
 	letter-spacing:1px;
 	line-height:50px;
  
+	/*word-wrap*/
+	
+	word-wrap:break-word; /*word wrap breaks the word to the next line if its too long,
+							otherwise if we haven't used this property it continues to
+							print in the same line and goes off page */
+ 
 }
