@@ -30,7 +30,7 @@ p{
 	border-bottom-right-radius:20px;
 
 	border-radius:10px;
-	box-shadow: 5px 5px 7px 2px #878787;
+	box-shadow: 5px 5px 7px 2px #878787 inset; /*inset shows the shadow inside the box*/
 	border:0;
 	
  
