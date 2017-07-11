@@ -2,19 +2,33 @@
 
 h1{
 	font-weight:normal;
-	text-decoration:underline;
+	
 }
 
 div{
-		border-style:solid;
+	border-style:solid;
+	border-color:rgb(255,80,112);
+	border-width:5px;
+	border-left-style:hidden;
+	border-right-style:hidden;
+	
+
 }	
 
 p{
 	/* font:italic bold 20px georgia, serif; */
 	
 	font:20px georgia, serif;
-	border-style:ridge;  /*someother values groove, inset, outset   */
-	border-left-style:hidden;
-	border-right-style:hidden;
+	border-style:double;  /*someother values groove, inset, outset   */
+	border-width:10px;
+	
+	/*border-right-style:solid;
+	border-left-style:solid;*/
+	
+	
+	border-color:rgb(160,180,180) rgb(200,220,220);
+
+	
+	
  
 }
