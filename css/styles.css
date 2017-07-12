@@ -1,4 +1,26 @@
-
+ a:link{
+	 text-decoration:none;
+	 color:#f2906f
+ }
+ a:visited{
+	 color:#6aaa47;
+ }
+ a:hover{
+	 text-decoration:underline;
+	 color:#3ad3e0;
+	 font-size:35px;
+ }
+ a:active{
+	 color:red;
+ }
+ 
+ 
+ li{
+		display:inline;
+		padding:10px 40px;
+		font-size:30px;
+ }
+ 
 div{
 	margin:40px auto;
 	border-style:solid;
