@@ -1,0 +1,35 @@
+p{
+	text-decoration:line-through;
+	font-size:20px;
+}
+div{
+	border-style:solid;
+	border-color:rgb(255,80,112);
+	border-width:5px;
+	border-left-style:hidden;
+	border-right-style:hidden;
+	
+
+}	
+
+div p{
+	
+	font:20px georgia, serif;
+	border-radius:10px;
+	box-shadow: 5px 5px 7px 2px #878787; 
+	border:0;
+	
+	letter-spacing:1px;
+	line-height:50px;
+ 
+	word-wrap:break-word; 
+	
+	text-indent:60px;
+	text-align:left;
+	text-decoration:none;
+ 
+}
+
+div div p{
+	text-decoration:underline;
+}
